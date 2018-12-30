@@ -2,7 +2,7 @@
 This C&C can upload/download files from/to agent and also run a CMD command on Windows machines.
 
 Dependencies:\
-pip install flask
+  -pip install flask
 
 How to use:
 1. Run cnc.py (and pip install flask before if you don't have it installed)
