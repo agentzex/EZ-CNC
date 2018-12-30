@@ -1,7 +1,7 @@
 # EZ-CNC
 This C&C can upload/download files from/to agent and also run a CMD command on Windows machines.
 
-Dependencies:
+Dependencies:\
 pip install flask
 
 How to use:
